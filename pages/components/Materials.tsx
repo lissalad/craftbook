@@ -1,26 +1,21 @@
-export default function Materials({ setMaterials, filters}) {
-  console.log(filters);
+interface CheckboxComponentProps {
+  materials: string[];
+  allMaterials: string[];
+  onChange: (material: string) => void;
+}
 
-  const materials = ["paper", "glue", "paint", "cardboard"];
+export default function Materials({materials, allMaterials, onChange}: CheckboxComponentProps) {
 
-  function toggleMaterial(material: string) {
-    const index = filters.indexOf(material);
-    if (index > -1) {
-      console.log("removing");
-      // setMaterials(filters.filter(material));
-    }
-    else {
-      console.log("adding");
+  const handleCheckboxChange = (material: string) => {
+    onChange(material);
+  };
 
-      setMaterials([...filters, material]);
-    }
-  }
-
-  const materialsList = materials.map((m, key) => 
-    <li className="flex flex-row gap-2 w-fit">
-      <input type="checkbox" key={key} name={m} value={m}
-              // onChange={e => toggleMaterial(m)}
-              />
+  const materialsList = allMaterials.map((m, key) => 
+    <li className="flex flex-row gap-2 w-fit" key={key}>
+      <input type="checkbox" name={m} value={m}
+            checked={materials.includes(m)}
+            onChange={() => handleCheckboxChange(m)}
+            />
       <p>{m}</p>
     </li>
 )
