@@ -4,9 +4,11 @@ import Header from './components/Header'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <div>
+    <div className="">
       <Header />
-      <Component {...pageProps} />
+      <div className="md:max-w-[1200px] mx-auto">
+        <Component {...pageProps} />
+      </div>
     </div>
   )
 }

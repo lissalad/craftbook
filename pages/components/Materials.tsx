@@ -20,9 +20,9 @@ export default function Materials({selectedMaterials, allMaterials, onChange}: C
     </li>
 )
 
-  return <div className="m-4">
+  return <div className="my-4">
       <p className="py-2">Your Supply Closet</p>
-      <ul className="flex flex-col p-2 border-2  flex-wrap h-32">
+      <ul className="flex flex-col p-4 border-2 rounded-3xl flex-wrap h-28">
           {materialsList}
       </ul>
   </div>
