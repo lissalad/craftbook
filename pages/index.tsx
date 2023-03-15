@@ -3,6 +3,8 @@ import Head from 'next/head'
 import { useState } from 'react'
 import Image from 'next/image'
 import Materials from './components/Materials'
+import CraftGallery from './components/CraftGallery'
+import data, { allMaterials } from "./utils/craftData";
 
 interface MyComponentProps {
   materials: string[];
@@ -10,16 +12,15 @@ interface MyComponentProps {
 }
 
 const Home: NextPage = () => {
-  const allMaterials = ["glue", "paper", "success", "dreams"];
-  const [materials, setMaterials] = useState<string[]>(allMaterials);
+  const [selectedMaterials, setSelectedMaterials] = useState<string[]>(allMaterials);
 
-  console.log(materials);
+  console.log(selectedMaterials);
 
   function handleCheckboxChange(item: string) {
-    if (materials.includes(item)) {
-      setMaterials(materials.filter((m) => m !== item));
+    if (selectedMaterials.includes(item)) {
+      setSelectedMaterials(selectedMaterials.filter((m) => m !== item));
     } else {
-      setMaterials([...materials, item]);
+      setSelectedMaterials([...selectedMaterials, item]);
     }
   }
 
@@ -30,8 +31,8 @@ const Home: NextPage = () => {
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
-    <Materials onChange={handleCheckboxChange} materials={materials} allMaterials={allMaterials}/>
-      
+    <Materials onChange={handleCheckboxChange} selectedMaterials={selectedMaterials} allMaterials={allMaterials}/>
+      <CraftGallery items={data} selectedMaterials={selectedMaterials}/>
     </>
   )
 }

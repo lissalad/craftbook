@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "paper snowflake",
+    "materials": ["paper", "scissors"],
+    "link": "",
+    "image": "snowflakes.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "painted rock",
+    "materials": ["paint", "rocks"],
+    "link": "",
+    "image": "sharkrock.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "photoholder",
+    "materials": ["rocks", "wire"],
+    "link": "",
+    "image": "photoholder.jpeg"
+  }
+]

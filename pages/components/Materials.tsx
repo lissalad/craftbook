@@ -1,10 +1,10 @@
 interface CheckboxComponentProps {
-  materials: string[];
+  selectedMaterials: string[];
   allMaterials: string[];
   onChange: (material: string) => void;
 }
 
-export default function Materials({materials, allMaterials, onChange}: CheckboxComponentProps) {
+export default function Materials({selectedMaterials, allMaterials, onChange}: CheckboxComponentProps) {
 
   const handleCheckboxChange = (material: string) => {
     onChange(material);
@@ -13,7 +13,7 @@ export default function Materials({materials, allMaterials, onChange}: CheckboxC
   const materialsList = allMaterials.map((m, key) => 
     <li className="flex flex-row gap-2 w-fit" key={key}>
       <input type="checkbox" name={m} value={m}
-            checked={materials.includes(m)}
+            checked={selectedMaterials.includes(m)}
             onChange={() => handleCheckboxChange(m)}
             />
       <p>{m}</p>
