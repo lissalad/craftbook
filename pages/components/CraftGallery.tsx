@@ -10,7 +10,7 @@ export default function CraftGallery({ items, selectedMaterials }: Props)  {
 
   console.log(items);
 
-  return <div className="grid grid-cols-4 gap-6 w-fit transition-all mx-auto my-4">
+  return <div className="grid lg:grid-cols-4 grid-cols-3 md:gap-4 gap-2 transition-all ml-auto lg:pl-[320px]">
     {items.filter((item) =>
     item.materials.every((material) => selectedMaterials.includes(material))
   ).map((craft) => (

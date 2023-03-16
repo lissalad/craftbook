@@ -30,9 +30,10 @@ const Home: NextPage = () => {
         <title>craftBook</title>
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
-
-    <Materials onChange={handleCheckboxChange} selectedMaterials={selectedMaterials} allMaterials={allMaterials}/>
-      <CraftGallery items={data} selectedMaterials={selectedMaterials}/>
+        <main className="flex flex-row">
+          <Materials onChange={handleCheckboxChange} selectedMaterials={selectedMaterials} allMaterials={allMaterials}/>
+          <CraftGallery items={data} selectedMaterials={selectedMaterials}/>
+        </main>
     </>
   )
 }

@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className="">
       <Header />
-      <div className="md:max-w-[1200px] mx-auto">
+      <div className="px-4 py-4 mx-auto">
         <Component {...pageProps} />
       </div>
     </div>

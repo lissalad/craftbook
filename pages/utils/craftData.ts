@@ -1,5 +1,5 @@
 import data from "./data.json";
-import { Item } from "./Types";
+import { Item } from "./types";
 
 const materials = new Set<string>();
 

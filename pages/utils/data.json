@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "paper snowflake",
-    "materials": ["paper", "scissors"],
+    "materials": ["paper"],
     "link": "",
     "image": "snowflakes.jpeg"
   },
@@ -23,7 +23,7 @@
   {
     "id": 3,
     "title": "seaglass art",
-    "materials": ["seaglass", "glue", "pen", "paper"],
+    "materials": ["seaglass", "glue", "paper"],
     "link": "",
     "image": "seaglassballerina.jpeg"
   },
@@ -44,14 +44,14 @@
   {
     "id": 6,
     "title": "engraved rock",
-    "materials": ["rock", "dremmel", "string"],
+    "materials": ["rock", "string"],
     "link": "",
     "image": "dremmelrock.png"
   },
   {
     "id": 7,
     "title": "stamp",
-    "materials": ["cork", "exacto knife", "ink"],
+    "materials": ["cork", "ink"],
     "link": "",
     "image": "corkstamp.png"
   }
