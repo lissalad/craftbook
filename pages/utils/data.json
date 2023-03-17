@@ -1,58 +1,74 @@
 [
   {
     "id": 0,
-    "title": "paper snowflake",
-    "materials": ["paper"],
-    "link": "",
-    "image": "snowflakes.jpeg"
+    "title": "rock painting",
+    "materials": ["rocks", "paint"],
+    "tools": ["paint brush"],
+    "link": "https://www.youtube.com/watch?v=FB08gwLcAr4&ab_channel=SerenaArt",
+    "image": "painted-rock.png"
   },
   {
     "id": 1,
-    "title": "painted rock",
-    "materials": ["paint", "rock"],
-    "link": "",
-    "image": "sharkrock.jpeg"
+    "title": "paper snowflake",
+    "materials": ["paper"],
+    "tools": ["scissors"],
+    "link": "https://www.youtube.com/watch?v=Ur8uhkYkyxQ&ab_channel=WonderCrafts",
+    "image": "paper-snowflake.png"
   },
   {
     "id": 2,
-    "title": "photoholder",
-    "materials": ["rock", "wire"],
-    "link": "",
-    "image": "photoholder.jpeg"
+    "title": "paper airplane",
+    "materials": ["paper"],
+    "tools": [""],
+    "link": "https://www.youtube.com/watch?v=veyZNyurlwU&ab_channel=TUKCrafts",
+    "image": "paper-plane.jpg"
   },
   {
     "id": 3,
-    "title": "seaglass art",
-    "materials": ["seaglass", "glue", "paper"],
-    "link": "",
-    "image": "seaglassballerina.jpeg"
+    "title": "pebble pot",
+    "materials": ["rocks", "glue", "plastic wrap"],
+    "tools": ["bowl", "sandpaper"],
+    "link": "https://www.youtube.com/watch?v=PwvJTmEtLOk&t=174s&ab_channel=DIYWithSipan",
+    "image": "pebble-pot.png"
   },
   {
     "id": 4,
-    "title": "bottlecap tree",
-    "materials": ["bottlecaps", "wire"],
-    "link": "",
-    "image": "bottlecaptree.jpeg"
+    "title": "River Rock Trivet",
+    "materials": ["rocks", "felt"],
+    "tools": ["scissors"],
+    "link": "https://www.practicallyfunctional.com/diy-river-rock-trivet/?utm_source=pinterest&utm_medium=social",
+    "image": "rock-trivet.jpeg"
   },
   {
     "id": 5,
-    "title": "coaster",
-    "materials": ["cork", "glue"],
-    "link": "",
-    "image": "corkcoaster.png"
+    "title": "Pressed Flower Lantern",
+    "materials": ["glue", "glass jar", "pressed flowers", "twine"],
+    "tools": ["paintbrush"],
+    "link": "https://onelittleproject.com/pressed-flower-lanterns/",
+    "image": "pressed-flower-lantern.jpeg"
   },
   {
     "id": 6,
-    "title": "engraved rock",
-    "materials": ["rock", "string"],
-    "link": "",
-    "image": "dremmelrock.png"
+    "title": "paper hyacinth",
+    "materials": ["construction paper", "glue"],
+    "tools": ["scissors", "ruler", "pencil"],
+    "link": "https://onelittleproject.com/paper-hyacinth-flowers/",
+    "image": "paper-hyacinth-flowers.jpeg"
   },
   {
     "id": 7,
-    "title": "stamp",
-    "materials": ["cork", "ink"],
-    "link": "",
+    "title": "cork stamp",
+    "materials": ["cork"],
+    "tools": ["x-acto knife", "pencil"],
+    "link": "https://www.onehundreddollarsamonth.com/diy-easy-wine-cork-stamps/",
     "image": "corkstamp.png"
+  },
+  {
+    "id": 8,
+    "title": "Plastic Flower",
+    "materials": ["plastic bottle", "glue"],
+    "tools": ["scissors", "lighter"],
+    "link": "https://www.youtube.com/watch?app=desktop&v=zAbWhnvI6qs&ab_channel=BeingSimplyArtistic",
+    "image": "plastic-flower.jpeg"
   }
 ]

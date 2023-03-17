@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className="">
       <Header />
-      <div className="px-4 py-4 mx-auto">
+      <div className="mx-auto">
         <Component {...pageProps} />
       </div>
     </div>

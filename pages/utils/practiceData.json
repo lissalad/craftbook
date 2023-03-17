@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "title": "paper snowflake",
+    "materials": ["paper"],
+    "link": "",
+    "image": "snowflakes.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "painted rock",
+    "materials": ["paint", "rock"],
+    "link": "",
+    "image": "sharkrock.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "photoholder",
+    "materials": ["rock", "wire"],
+    "link": "",
+    "image": "photoholder.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "seaglass art",
+    "materials": ["seaglass", "glue", "paper"],
+    "link": "",
+    "image": "seaglassballerina.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "bottlecap tree",
+    "materials": ["bottlecaps", "wire"],
+    "link": "",
+    "image": "bottlecaptree.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "coaster",
+    "materials": ["cork", "glue"],
+    "link": "",
+    "image": "corkcoaster.png"
+  },
+  {
+    "id": 6,
+    "title": "engraved rock",
+    "materials": ["rock", "string"],
+    "link": "",
+    "image": "dremmelrock.png"
+  },
+  {
+    "id": 7,
+    "title": "stamp",
+    "materials": ["cork", "ink"],
+    "link": "",
+    "image": "corkstamp.png"
+  }
+]
