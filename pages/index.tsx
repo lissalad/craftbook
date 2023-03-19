@@ -1,9 +1,9 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import { useState } from 'react'
-import Image from 'next/image'
-import Materials from './components/Materials'
-import CraftGallery from './components/CraftGallery'
+import type { NextPage } from "next";
+import Head from "next/head";
+import { useState } from "react";
+import Image from "next/image";
+import Materials from "./components/Materials";
+import CraftGallery from "./components/CraftGallery";
 import data, { allMaterials } from "./utils/craftData";
 
 interface MyComponentProps {
@@ -12,7 +12,8 @@ interface MyComponentProps {
 }
 
 const Home: NextPage = () => {
-  const [selectedMaterials, setSelectedMaterials] = useState<string[]>(allMaterials);
+  const [selectedMaterials, setSelectedMaterials] =
+    useState<string[]>(allMaterials);
 
   console.log(selectedMaterials);
 
@@ -24,18 +25,32 @@ const Home: NextPage = () => {
     }
   }
 
+  function handleClear() {
+    setSelectedMaterials([]);
+  }
+
+  function selectAll() {
+    setSelectedMaterials(allMaterials);
+  }
+
   return (
     <>
       <Head>
         <title>craftBook</title>
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
-        <main className="flex flex-row transition-all">
-          <Materials onChange={handleCheckboxChange} selectedMaterials={selectedMaterials} allMaterials={allMaterials}/>
-          <CraftGallery items={data} selectedMaterials={selectedMaterials}/>
-        </main>
+      <main className="flex flex-row transition-all">
+        <Materials
+          onChange={handleCheckboxChange}
+          selectedMaterials={selectedMaterials}
+          allMaterials={allMaterials}
+          handleClear={handleClear}
+          selectAll={selectAll}
+        />
+        <CraftGallery items={data} selectedMaterials={selectedMaterials} />
+      </main>
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

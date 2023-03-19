@@ -1,17 +1,19 @@
-import { Item } from "../utils/Types"
+import { Item } from "../utils/types";
 import Image from "next/image";
 
-export default function Craft(item) { //help
-  const craft = item.craft;
-
+export default function Craft({ craft }: { craft: Item }) {
+  //help
   const image = `/images/${craft.image}`;
 
   return (
-    <div className="hover:scale-[95%] transition-all flex flex-col mb-4 relative">
-      <img 
-          width="100"
-          height="100"
-          className="h-fit w-full tile-image rounded-t-xl shadow-md transition-all transition-duration-500 hover:brightness-75 hover:shadow-xl"alt={craft.title} src={image}/>
-      <p className=" text-stone-50 capitalize bg-stone-500/80 backdrop-blur-xl rounded-b-xl bottom-0 w-full p-3 text-md">{craft.title}</p>
-    </div> )
+    <div className=" m-3 flex flex-col flex-nowrap hover:scale-[0.94] transition-all">
+      {/* flex grow */}
+      <img
+        className="w-[280px] h-[280px] object-cover rounded-xl"
+        alt={craft.title}
+        src={image}
+      />
+      <p className="capitalize p-2">{craft.title}</p>
+    </div>
+  );
 }

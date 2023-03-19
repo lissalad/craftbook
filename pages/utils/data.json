@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "pebble pot",
-    "materials": ["rocks", "glue", "plastic wrap"],
+    "materials": ["rocks", "plastic wrap"],
     "tools": ["bowl", "sandpaper"],
     "link": "https://www.youtube.com/watch?v=PwvJTmEtLOk&t=174s&ab_channel=DIYWithSipan",
     "image": "pebble-pot.png"
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "title": "Pressed Flower Lantern",
-    "materials": ["glue", "glass jar", "pressed flowers", "twine"],
+    "materials": ["glass jar", "pressed flowers", "twine"],
     "tools": ["paintbrush"],
     "link": "https://onelittleproject.com/pressed-flower-lanterns/",
     "image": "pressed-flower-lantern.jpeg"
@@ -50,14 +50,14 @@
   {
     "id": 6,
     "title": "paper hyacinth",
-    "materials": ["construction paper", "glue"],
+    "materials": ["construction paper"],
     "tools": ["scissors", "ruler", "pencil"],
     "link": "https://onelittleproject.com/paper-hyacinth-flowers/",
     "image": "paper-hyacinth-flowers.jpeg"
   },
   {
     "id": 7,
-    "title": "cork stamp",
+    "title": "stamp",
     "materials": ["cork"],
     "tools": ["x-acto knife", "pencil"],
     "link": "https://www.onehundreddollarsamonth.com/diy-easy-wine-cork-stamps/",
@@ -66,9 +66,162 @@
   {
     "id": 8,
     "title": "Plastic Flower",
-    "materials": ["plastic bottle", "glue"],
+    "materials": ["plastic bottle"],
     "tools": ["scissors", "lighter"],
     "link": "https://www.youtube.com/watch?app=desktop&v=zAbWhnvI6qs&ab_channel=BeingSimplyArtistic",
     "image": "plastic-flower.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Sea Glass Art",
+    "materials": ["sea glass", "paper"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://inspirationaloud.wordpress.com/page/2/",
+    "image": "sea-glass-dress.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Tiny Stars",
+    "materials": ["stars", ""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.creativejewishmom.com/2020/08/tiny-origami-stars-made-from-paper-strips.html",
+    "image": "paper-stars.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Mini Cork Drums",
+    "materials": ["cork", "paint", "string"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://everythingverysmall.com/from-trash-to-treasures-ideas-make-miniatures-from-scratch-part-2/",
+    "image": "cork-drums.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Twine Flowers",
+    "materials": ["twine"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.modernwedding.com.au/diy-twine-flowers-instructions/",
+    "image": "twine-flowers.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Cork Keychain",
+    "materials": ["cork"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.thekimsixfix.com/2014/05/wine-cork-keychains-for-pool-or-beach.html",
+    "image": "cork-keychain.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "utensil holder",
+    "materials": ["cork"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://amagicalmess.com/cork-diy-kitchen-utensil-holder/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=765441962_26492188_408490",
+    "image": "utensil-holder.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "engraved rock charm",
+    "materials": ["rock"],
+    "other-materials": [],
+    "tools": ["dremel"],
+    "link": "https://www.lilblueboo.com/2012/09/carving-rocks-with-a-dremel.html",
+    "image": "carved-rock.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "bird bookmark",
+    "materials": ["felt", "paperclip"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://sustainmycrafthabit.com/felt-bird-diy-bookmarks/",
+    "image": "bird-bookmark.png"
+  },
+  {
+    "id": 17,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "title": "",
+    "materials": [""],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
   }
 ]
