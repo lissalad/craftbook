@@ -42,17 +42,21 @@ export default function Sidebar({
 
   if (menuOpen) {
     return (
-      <div className="bg-rose-200">
-        <div className="sticky top-0 p-6">
-          <p className="text-lg font-semibold">Supply Closet</p>
-          <ul className="flex flex-col pt-2 pb-6">{materialsList}</ul>
-          <div className="flex flex-col items-start">
-            <button className={buttonStyles} onClick={selectAll}>
-              select all
-            </button>
-            <button className={buttonStyles} onClick={handleClear}>
-              clear
-            </button>
+      <div className="w-full sm:w-fit sm:static fixed bg-rose-50 shadow-rose-300 shadow-md min-h-screen">
+        <div className="sticky top-0 py-4">
+          <p className="text-md font-semibold border-b border-black pb-4 mb-4 mx-4">
+            Supply Closet
+          </p>
+          <div className="px-6">
+            <ul className="flex flex-col pt-2 pb-6">{materialsList}</ul>
+            <div className="flex flex-col items-start">
+              <button className={buttonStyles} onClick={selectAll}>
+                select all
+              </button>
+              <button className={buttonStyles} onClick={handleClear}>
+                clear
+              </button>
+            </div>
           </div>
         </div>
       </div>

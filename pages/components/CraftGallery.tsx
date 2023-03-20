@@ -10,7 +10,7 @@ export default function CraftGallery({ items, selectedMaterials }: Props) {
   console.log(items);
 
   return (
-    <div className="grid grid-rows-auto grid-cols-5 gap-4 w-full m-4">
+    <div className="grid grid-rows-auto xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 grid-cols-2 gap-4 w-full m-4">
       {items
         .filter((item) =>
           item.materials.some((material) =>

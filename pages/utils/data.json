@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "title": "resin sea glass coaster",
+    "title": "sea glass coaster",
     "materials": ["resin", "sea glass"],
     "other-materials": [],
     "tools": [""],
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "title": "wire wrapped sea glass",
+    "title": "sea glass charm",
     "materials": ["sea glass", "wire"],
     "other-materials": [],
     "tools": [""],
@@ -223,5 +223,14 @@
     "tools": [""],
     "link": "http://almostunschoolers.blogspot.com/2013/07/summer-fun-day-63-paperclip-pals.html?m=1",
     "image": "silly-paperclips.jpeg"
+  },
+  {
+    "id": 26,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
   }
 ]
