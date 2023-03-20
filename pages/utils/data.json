@@ -226,6 +226,240 @@
   },
   {
     "id": 26,
+    "title": "yarn flower",
+    "materials": ["yarn", "beads"],
+    "other-materials": [],
+    "tools": ["fork"],
+    "link": "https://fabartdiy.org/fun-hand-embroidery-yarn-flower-diy-tutorial-with-fork/",
+    "image": "yarn-flower.jpeg"
+  },
+  {
+    "id": 27,
+    "title": "yarn doll",
+    "materials": ["yarn"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.thecrafttrain.com/braided-yarn-dolls/",
+    "image": "yarn-dolls.jpeg"
+  },
+  {
+    "id": 28,
+    "title": "rose earrings",
+    "materials": ["wire"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.youtube.com/watch?v=K6nHUEX3a68&t=79s",
+    "image": "rose-earrings.jpeg"
+  },
+  {
+    "id": 29,
+    "title": "folded ring",
+    "materials": ["wire"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://jewelrymakingjournal.com/easy-folded-wire-ring-tutorial/",
+    "image": "swirl-ring.jpeg"
+  },
+  {
+    "id": 30,
+    "title": "Cabochon Pendant",
+    "materials": ["wire", "rocks"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.youtube.com/watch?v=AjHeSLKc4XE",
+    "image": "wrapped-stone.jpeg"
+  },
+  {
+    "id": 31,
+    "title": "sword pendant",
+    "materials": ["wire", "beads"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.instructables.com/Sword-Pendant-Wire-Wrapped-Jewelry/swo",
+    "image": "sword.jpeg"
+  },
+  {
+    "id": 32,
+    "title": "stethoscope earrings",
+    "materials": ["wire", "beads"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.youtube.com/watch?v=lDWKwMiHXCA&ab_channel=HeatherBoydWire",
+    "image": "stethoscope.jpeg"
+  },
+  {
+    "id": 33,
+    "title": "sea glass pendant",
+    "materials": ["sea glass", "resin"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.beadinggem.com/2016/07/how-to-make-see-through-sea-glass.html",
+    "image": "sea-glass-pendant.jpeg"
+  },
+  {
+    "id": 34,
+    "title": "cracked glass stone",
+    "materials": ["glass stones", "paint"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": "cracked-glass-stone.jpeg"
+  },
+  {
+    "id": 35,
+    "title": "suncatcher",
+    "materials": ["glass stones", "plastic"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://onelittleproject.com/glass-bead-suncatcher/",
+    "image": "suncatcher.jpeg"
+  },
+  {
+    "id": 36,
+    "title": "button bouquet",
+    "materials": ["glass jar", "buttons", "wire"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.aubreeoriginals.com/button-bouquet-salt-shaker-diy/",
+    "image": "button-bouquet.jpeg"
+  },
+  {
+    "id": 37,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 51,
+    "title": "",
+    "materials": [],
+    "other-materials": [],
+    "tools": [""],
+    "link": "",
+    "image": ""
+  },
+  {
+    "id": 52,
     "title": "",
     "materials": [],
     "other-materials": [],
