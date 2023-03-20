@@ -10,14 +10,14 @@ export default function CraftGallery({ items, selectedMaterials }: Props) {
   console.log(items);
 
   return (
-    <div className="flex flex-row flex-wrap">
+    <div className="grid grid-rows-auto grid-cols-4 gap-4 w-full m-4">
       {items
         .filter((item) =>
-          item.materials.every((material) =>
+          item.materials.some((material) =>
             selectedMaterials.includes(material)
           )
         )
-        .sort((a, b) => a.title.localeCompare(b.title)) // Sort items alphabetically
+        .sort((a, b) => a.title.localeCompare(b.title))
         .map((craft) => (
           <Craft craft={craft} key={craft.id} />
         ))}

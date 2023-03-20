@@ -26,8 +26,8 @@
   {
     "id": 3,
     "title": "pebble pot",
-    "materials": ["rocks", "plastic wrap"],
-    "tools": ["bowl", "sandpaper"],
+    "materials": ["rocks"],
+    "tools": ["plastic wrap", "bowl", "sandpaper"],
     "link": "https://www.youtube.com/watch?v=PwvJTmEtLOk&t=174s&ab_channel=DIYWithSipan",
     "image": "pebble-pot.png"
   },
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "title": "paper hyacinth",
-    "materials": ["construction paper"],
+    "materials": ["paper"],
     "tools": ["scissors", "ruler", "pencil"],
     "link": "https://onelittleproject.com/paper-hyacinth-flowers/",
     "image": "paper-hyacinth-flowers.jpeg"
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "title": "Plastic Flower",
-    "materials": ["plastic bottle"],
+    "materials": ["plastic"],
     "tools": ["scissors", "lighter"],
     "link": "https://www.youtube.com/watch?app=desktop&v=zAbWhnvI6qs&ab_channel=BeingSimplyArtistic",
     "image": "plastic-flower.jpeg"
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "title": "Tiny Stars",
-    "materials": ["stars", ""],
+    "materials": ["paper"],
     "other-materials": [],
     "tools": [""],
     "link": "https://www.creativejewishmom.com/2020/08/tiny-origami-stars-made-from-paper-strips.html",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "title": "Mini Cork Drums",
-    "materials": ["cork", "paint", "string"],
+    "materials": ["cork", "paint"],
     "other-materials": [],
     "tools": [""],
     "link": "https://everythingverysmall.com/from-trash-to-treasures-ideas-make-miniatures-from-scratch-part-2/",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "title": "engraved rock charm",
-    "materials": ["rock"],
+    "materials": ["rocks"],
     "other-materials": [],
     "tools": ["dremel"],
     "link": "https://www.lilblueboo.com/2012/09/carving-rocks-with-a-dremel.html",
@@ -145,83 +145,83 @@
   },
   {
     "id": 17,
-    "title": "",
-    "materials": [""],
+    "title": "treasure jar",
+    "materials": ["glass jar", "glass stones"],
     "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
+    "tools": ["hot glue gun"],
+    "link": "https://www.diyncrafts.com/52441/decor/diy-garden-treasure-jars",
+    "image": "treasure-jar.jpeg"
   },
   {
     "id": 18,
-    "title": "",
-    "materials": [""],
+    "title": "fishnet wrapped jar",
+    "materials": ["glass jar", "twine", "sea shells"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://www.itallstartedwithpaint.com/fishnet-wrapped-mason-jar/",
+    "image": "fishnet-jar.png"
   },
   {
     "id": 19,
-    "title": "",
-    "materials": [""],
+    "title": "flower bookmark",
+    "materials": ["plastic", "pressed flowers"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://littlepinelearners.com/easy-diy-flower-bookmark/",
+    "image": "flower-bookmark.png"
   },
   {
     "id": 20,
-    "title": "",
-    "materials": [""],
+    "title": "beach critter",
+    "materials": ["sea shells", "googly eyes"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://www.momdoesreviews.com/2018/07/23/make-some-cute-beach-shell-critters/",
+    "image": "shell-guy.png"
   },
   {
     "id": 21,
-    "title": "",
-    "materials": [""],
+    "title": "plastic leaf earrings",
+    "materials": ["plastic"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://blog.freepeople.com/2011/11/diy-event-friday-portland/",
+    "image": "leaf-earrings.png"
   },
   {
     "id": 22,
-    "title": "",
-    "materials": [""],
+    "title": "resin sea glass coaster",
+    "materials": ["resin", "sea glass"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://lovelyindeed.com/diy-resin-coasters-with-sea-glass/",
+    "image": "sea-glass-coaster.png"
   },
   {
     "id": 23,
-    "title": "",
-    "materials": [""],
+    "title": "wire wrapped sea glass",
+    "materials": ["sea glass", "wire"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "https://www.youtube.com/watch?v=yOVqeBJsk7Y&t=4s&ab_channel=HeatherBoydWire",
+    "image": "wire-wrapped-sea-glass.jpeg"
   },
   {
     "id": 24,
-    "title": "",
-    "materials": [""],
+    "title": "sea glass bowl",
+    "materials": ["sea glass"],
     "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
+    "tools": ["glue"],
+    "link": "https://www.vickymyerscreations.co.uk/diy-sea-glass-bowl/",
+    "image": "sea-glass-bowl.jpeg"
   },
   {
     "id": 25,
-    "title": "",
-    "materials": [""],
+    "title": "paper clip pals",
+    "materials": ["paperclip", "yarn", "googly eyes"],
     "other-materials": [],
     "tools": [""],
-    "link": "",
-    "image": ""
+    "link": "http://almostunschoolers.blogspot.com/2013/07/summer-fun-day-63-paperclip-pals.html?m=1",
+    "image": "silly-paperclips.jpeg"
   }
 ]

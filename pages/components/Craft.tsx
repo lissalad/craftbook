@@ -6,14 +6,14 @@ export default function Craft({ craft }: { craft: Item }) {
   const image = `/images/${craft.image}`;
 
   return (
-    <div className=" m-3 flex flex-col flex-nowrap hover:scale-[0.94] transition-all">
+    <div className="flex flex-col flex-nowrap hover:scale-[0.94] transition-all aspect-square">
       {/* flex grow */}
       <img
-        className="w-[280px] h-[280px] object-cover rounded-xl"
+        className="w-full h-full object-cover rounded-xl hover:shadow-xl aspect-square"
         alt={craft.title}
         src={image}
       />
-      <p className="capitalize p-2">{craft.title}</p>
+      <p className="capitalize pt-2">{craft.title}</p>
     </div>
   );
 }

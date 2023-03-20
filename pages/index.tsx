@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { useState } from "react";
 import Image from "next/image";
-import Materials from "./components/Materials";
+import Sidebar from "./components/Sidebar";
 import CraftGallery from "./components/CraftGallery";
 import data, { allMaterials } from "./utils/craftData";
 
@@ -14,8 +14,6 @@ interface MyComponentProps {
 const Home: NextPage = () => {
   const [selectedMaterials, setSelectedMaterials] =
     useState<string[]>(allMaterials);
-
-  console.log(selectedMaterials);
 
   function handleCheckboxChange(item: string) {
     if (selectedMaterials.includes(item)) {
@@ -37,10 +35,10 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>craftBook</title>
-        {/* <link rel="icon" href="/favicon.ico" /> */}
+        <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="flex flex-row transition-all">
-        <Materials
+      <main className="flex flex-row">
+        <Sidebar
           onChange={handleCheckboxChange}
           selectedMaterials={selectedMaterials}
           allMaterials={allMaterials}
