@@ -37,7 +37,7 @@ const Home: NextPage = () => {
         <title>craftBook</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="flex flex-row">
+      <main className="flex flex-row relative">
         <Sidebar
           onChange={handleCheckboxChange}
           selectedMaterials={selectedMaterials}

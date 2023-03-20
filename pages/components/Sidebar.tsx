@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { MenuIcon, OpenIcon } from "./Icons";
+import { useAtom } from "jotai";
+import { menuOpenAtom } from "../_app";
 
 interface CheckboxComponentProps {
   selectedMaterials: string[];
@@ -16,16 +18,15 @@ export default function Sidebar({
   handleClear,
   selectAll,
 }: CheckboxComponentProps) {
+  const [menuOpen] = useAtom(menuOpenAtom);
   const handleCheckboxChange = (material: string) => {
     onChange(material);
   };
-  const [menuOpen, setMenuOpen] = useState<boolean>(true);
-
   const buttonStyles = "text-sm font-light hover:font-normal";
 
   const materialsList = allMaterials.map((m, key) => (
     <li
-      className="flex flex-row gap-2 h-fit capitalize whitespace-nowrap"
+      className="flex flex-row gap-2 h-fit capitalize whitespace-nowrap text-sm"
       key={key}
     >
       <input
@@ -39,34 +40,22 @@ export default function Sidebar({
     </li>
   ));
 
-  function toggleMenu() {
-    setMenuOpen(!menuOpen);
-    console.log(menuOpen);
-  }
-
-  function ShowMaterials() {
-    if (menuOpen) {
-      return (
-        <div className="py-2">
+  if (menuOpen) {
+    return (
+      <div className="bg-rose-200">
+        <div className="sticky top-0 p-6">
           <p className="text-lg font-semibold">Supply Closet</p>
           <ul className="flex flex-col pt-2 pb-6">{materialsList}</ul>
-          <button className={buttonStyles} onClick={selectAll}>
-            select all
-          </button>
-          <button className={buttonStyles} onClick={handleClear}>
-            clear
-          </button>
+          <div className="flex flex-col items-start">
+            <button className={buttonStyles} onClick={selectAll}>
+              select all
+            </button>
+            <button className={buttonStyles} onClick={handleClear}>
+              clear
+            </button>
+          </div>
         </div>
-      );
-    } else return <></>;
-  }
-
-  return (
-    <div className="bg-rose-50 sticky top-0 h-full text-left items-start w-fit z-20 transition-all p-6">
-      <button className="" onClick={toggleMenu}>
-        <MenuIcon />
-      </button>
-      <ShowMaterials />
-    </div>
-  );
+      </div>
+    );
+  } else return <></>;
 }
