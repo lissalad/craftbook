@@ -57,3 +57,7 @@ export function MenuIcon() {
     </svg>
   );
 }
+
+export default function defaultIcon() {
+  return <></>;
+}

@@ -1,9 +1,8 @@
-import { Item } from "../utils/types";
+import { Item } from "../../utils/types";
 import Image from "next/image";
 
 export default function Craft({ craft }: { craft: Item }) {
-  //help
-  const image = `/images/${craft.image}`;
+  const image = `/images/${craft?.image}`;
 
   return (
     <div className="flex flex-col hover:scale-[0.96] transition-all aspect-square items-center justify-center relative group duration-200">

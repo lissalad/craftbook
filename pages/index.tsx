@@ -4,7 +4,8 @@ import { useState } from "react";
 import Image from "next/image";
 import Sidebar from "./components/Sidebar";
 import CraftGallery from "./components/CraftGallery";
-import data, { allMaterials } from "./utils/craftData";
+import data, { allMaterials } from "../utils/craftData";
+import { atom } from "jotai";
 
 interface MyComponentProps {
   materials: string[];

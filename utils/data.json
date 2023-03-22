@@ -3,7 +3,8 @@
     "id": 0,
     "title": "rock painting",
     "materials": ["rocks", "paint"],
-    "tools": ["paint brush"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=FB08gwLcAr4&ab_channel=SerenaArt",
     "image": "painted-rock.png"
   },
@@ -11,7 +12,8 @@
     "id": 1,
     "title": "paper snowflake",
     "materials": ["paper"],
-    "tools": ["scissors"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=Ur8uhkYkyxQ&ab_channel=WonderCrafts",
     "image": "paper-snowflake.png"
   },
@@ -19,7 +21,8 @@
     "id": 2,
     "title": "paper airplane",
     "materials": ["paper"],
-    "tools": [""],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=veyZNyurlwU&ab_channel=TUKCrafts",
     "image": "paper-plane.jpg"
   },
@@ -27,7 +30,8 @@
     "id": 3,
     "title": "pebble pot",
     "materials": ["rocks"],
-    "tools": ["plastic wrap", "bowl", "sandpaper"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=PwvJTmEtLOk&t=174s&ab_channel=DIYWithSipan",
     "image": "pebble-pot.png"
   },
@@ -35,7 +39,8 @@
     "id": 4,
     "title": "River Rock Trivet",
     "materials": ["rocks", "felt"],
-    "tools": ["scissors"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.practicallyfunctional.com/diy-river-rock-trivet/?utm_source=pinterest&utm_medium=social",
     "image": "rock-trivet.jpeg"
   },
@@ -43,7 +48,8 @@
     "id": 5,
     "title": "Pressed Flower Lantern",
     "materials": ["glass jar", "pressed flowers", "twine"],
-    "tools": ["paintbrush"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://onelittleproject.com/pressed-flower-lanterns/",
     "image": "pressed-flower-lantern.jpeg"
   },
@@ -51,7 +57,8 @@
     "id": 6,
     "title": "paper hyacinth",
     "materials": ["paper"],
-    "tools": ["scissors", "ruler", "pencil"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://onelittleproject.com/paper-hyacinth-flowers/",
     "image": "paper-hyacinth-flowers.jpeg"
   },
@@ -59,7 +66,8 @@
     "id": 7,
     "title": "stamp",
     "materials": ["cork"],
-    "tools": ["x-acto knife", "pencil"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.onehundreddollarsamonth.com/diy-easy-wine-cork-stamps/",
     "image": "corkstamp.png"
   },
@@ -67,7 +75,8 @@
     "id": 8,
     "title": "Plastic Flower",
     "materials": ["plastic"],
-    "tools": ["scissors", "lighter"],
+    "other-materials": [],
+    "tools": [],
     "link": "https://www.youtube.com/watch?app=desktop&v=zAbWhnvI6qs&ab_channel=BeingSimplyArtistic",
     "image": "plastic-flower.jpeg"
   },
@@ -76,7 +85,7 @@
     "title": "Sea Glass Art",
     "materials": ["sea glass", "paper"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://inspirationaloud.wordpress.com/page/2/",
     "image": "sea-glass-dress.jpeg"
   },
@@ -85,7 +94,7 @@
     "title": "Tiny Stars",
     "materials": ["paper"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.creativejewishmom.com/2020/08/tiny-origami-stars-made-from-paper-strips.html",
     "image": "paper-stars.jpeg"
   },
@@ -94,7 +103,7 @@
     "title": "Mini Cork Drums",
     "materials": ["cork", "paint"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://everythingverysmall.com/from-trash-to-treasures-ideas-make-miniatures-from-scratch-part-2/",
     "image": "cork-drums.jpeg"
   },
@@ -103,7 +112,7 @@
     "title": "Twine Flowers",
     "materials": ["twine"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.modernwedding.com.au/diy-twine-flowers-instructions/",
     "image": "twine-flowers.jpeg"
   },
@@ -112,7 +121,7 @@
     "title": "Cork Keychain",
     "materials": ["cork"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.thekimsixfix.com/2014/05/wine-cork-keychains-for-pool-or-beach.html",
     "image": "cork-keychain.jpeg"
   },
@@ -121,7 +130,7 @@
     "title": "utensil holder",
     "materials": ["cork"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://amagicalmess.com/cork-diy-kitchen-utensil-holder/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=765441962_26492188_408490",
     "image": "utensil-holder.jpeg"
   },
@@ -130,7 +139,7 @@
     "title": "engraved rock charm",
     "materials": ["rocks"],
     "other-materials": [],
-    "tools": ["dremel"],
+    "tools": [],
     "link": "https://www.lilblueboo.com/2012/09/carving-rocks-with-a-dremel.html",
     "image": "carved-rock.jpeg"
   },
@@ -139,7 +148,7 @@
     "title": "bird bookmark",
     "materials": ["felt", "paperclip"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://sustainmycrafthabit.com/felt-bird-diy-bookmarks/",
     "image": "bird-bookmark.png"
   },
@@ -148,7 +157,7 @@
     "title": "treasure jar",
     "materials": ["glass jar", "glass stones"],
     "other-materials": [],
-    "tools": ["hot glue gun"],
+    "tools": [],
     "link": "https://www.diyncrafts.com/52441/decor/diy-garden-treasure-jars",
     "image": "treasure-jar.jpeg"
   },
@@ -157,7 +166,7 @@
     "title": "fishnet wrapped jar",
     "materials": ["glass jar", "twine", "sea shells"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.itallstartedwithpaint.com/fishnet-wrapped-mason-jar/",
     "image": "fishnet-jar.png"
   },
@@ -166,7 +175,7 @@
     "title": "flower bookmark",
     "materials": ["plastic", "pressed flowers"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://littlepinelearners.com/easy-diy-flower-bookmark/",
     "image": "flower-bookmark.png"
   },
@@ -175,7 +184,7 @@
     "title": "beach critter",
     "materials": ["sea shells", "googly eyes"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.momdoesreviews.com/2018/07/23/make-some-cute-beach-shell-critters/",
     "image": "shell-guy.png"
   },
@@ -184,7 +193,7 @@
     "title": "plastic leaf earrings",
     "materials": ["plastic"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://blog.freepeople.com/2011/11/diy-event-friday-portland/",
     "image": "leaf-earrings.png"
   },
@@ -193,7 +202,7 @@
     "title": "sea glass coaster",
     "materials": ["resin", "sea glass"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://lovelyindeed.com/diy-resin-coasters-with-sea-glass/",
     "image": "sea-glass-coaster.png"
   },
@@ -202,7 +211,7 @@
     "title": "sea glass charm",
     "materials": ["sea glass", "wire"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=yOVqeBJsk7Y&t=4s&ab_channel=HeatherBoydWire",
     "image": "wire-wrapped-sea-glass.jpeg"
   },
@@ -211,7 +220,7 @@
     "title": "sea glass bowl",
     "materials": ["sea glass"],
     "other-materials": [],
-    "tools": ["glue"],
+    "tools": [],
     "link": "https://www.vickymyerscreations.co.uk/diy-sea-glass-bowl/",
     "image": "sea-glass-bowl.jpeg"
   },
@@ -220,7 +229,7 @@
     "title": "paper clip pals",
     "materials": ["paperclip", "yarn", "googly eyes"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "http://almostunschoolers.blogspot.com/2013/07/summer-fun-day-63-paperclip-pals.html?m=1",
     "image": "silly-paperclips.jpeg"
   },
@@ -229,7 +238,7 @@
     "title": "yarn flower",
     "materials": ["yarn", "beads"],
     "other-materials": [],
-    "tools": ["fork"],
+    "tools": [],
     "link": "https://fabartdiy.org/fun-hand-embroidery-yarn-flower-diy-tutorial-with-fork/",
     "image": "yarn-flower.jpeg"
   },
@@ -238,7 +247,7 @@
     "title": "yarn doll",
     "materials": ["yarn"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.thecrafttrain.com/braided-yarn-dolls/",
     "image": "yarn-dolls.jpeg"
   },
@@ -247,7 +256,7 @@
     "title": "rose earrings",
     "materials": ["wire"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=K6nHUEX3a68&t=79s",
     "image": "rose-earrings.jpeg"
   },
@@ -256,7 +265,7 @@
     "title": "folded ring",
     "materials": ["wire"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://jewelrymakingjournal.com/easy-folded-wire-ring-tutorial/",
     "image": "swirl-ring.jpeg"
   },
@@ -265,7 +274,7 @@
     "title": "Cabochon Pendant",
     "materials": ["wire", "rocks"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=AjHeSLKc4XE",
     "image": "wrapped-stone.jpeg"
   },
@@ -274,7 +283,7 @@
     "title": "sword pendant",
     "materials": ["wire", "beads"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.instructables.com/Sword-Pendant-Wire-Wrapped-Jewelry/swo",
     "image": "sword.jpeg"
   },
@@ -283,7 +292,7 @@
     "title": "stethoscope earrings",
     "materials": ["wire", "beads"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.youtube.com/watch?v=lDWKwMiHXCA&ab_channel=HeatherBoydWire",
     "image": "stethoscope.jpeg"
   },
@@ -292,7 +301,7 @@
     "title": "sea glass pendant",
     "materials": ["sea glass", "resin"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.beadinggem.com/2016/07/how-to-make-see-through-sea-glass.html",
     "image": "sea-glass-pendant.jpeg"
   },
@@ -301,8 +310,8 @@
     "title": "cracked glass stone",
     "materials": ["glass stones", "paint"],
     "other-materials": [],
-    "tools": [""],
-    "link": "",
+    "tools": [],
+    "link": "https://colormadehappy.com/diy-glass-cracked-gems-stones-jewelry/",
     "image": "cracked-glass-stone.jpeg"
   },
   {
@@ -310,7 +319,7 @@
     "title": "suncatcher",
     "materials": ["glass stones", "plastic"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://onelittleproject.com/glass-bead-suncatcher/",
     "image": "suncatcher.jpeg"
   },
@@ -319,152 +328,8 @@
     "title": "button bouquet",
     "materials": ["glass jar", "buttons", "wire"],
     "other-materials": [],
-    "tools": [""],
+    "tools": [],
     "link": "https://www.aubreeoriginals.com/button-bouquet-salt-shaker-diy/",
     "image": "button-bouquet.jpeg"
-  },
-  {
-    "id": 37,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 38,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 39,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 40,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 41,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 42,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 43,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 44,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 45,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 46,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 47,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 48,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 49,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 50,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 51,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
-  },
-  {
-    "id": 52,
-    "title": "",
-    "materials": [],
-    "other-materials": [],
-    "tools": [""],
-    "link": "",
-    "image": ""
   }
 ]
