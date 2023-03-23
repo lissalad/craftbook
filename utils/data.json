@@ -331,5 +331,68 @@
     "tools": [],
     "link": "https://www.aubreeoriginals.com/button-bouquet-salt-shaker-diy/",
     "image": "button-bouquet.jpeg"
+  },
+  {
+    "id": 37,
+    "title": "plastic butterfly",
+    "materials": ["plastic", "sharpies"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://ourfamilycode.com/plastic-bottle-butterflies-recycled-art/",
+    "image": "plastic-butterfly.jpg"
+  },
+  {
+    "id": 38,
+    "title": "gemstones",
+    "materials": ["plastic", "paint"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.instructables.com/Plastic-Bottle-Hack-Make-Easy-Gemstones/",
+    "image": "gemstones.jpeg"
+  },
+  {
+    "id": 39,
+    "title": "decorated sea glass",
+    "materials": ["sea glass", "paint"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://youtu.be/PvPLjt5Lr_Y",
+    "image": "decorated-sea-glass.jpeg"
+  },
+  {
+    "id": 40,
+    "title": "googly eye vase",
+    "materials": ["glass jar", "googly eyes", "paint"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://thesavvyage.com/diy-halloween-googly-eye-vase-dollar-store/",
+    "image": "googly-eye-vase.jpg"
+  },
+  {
+    "id": 41,
+    "title": "wire wrapped sea glass",
+    "materials": ["wire", "sea glass"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://myloveforcreativity.wordpress.com/2013/03/04/sea-glass-jewelry-tutorial-and-necklace/",
+    "image": "wire-wrapped-sea-glass2.jpeg"
+  },
+  {
+    "id": 42,
+    "title": "button dish",
+    "materials": ["buttons"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://www.hometalk.com/diy/decorate/rooms/button-dish-23788265?id=3591404&id=3591404",
+    "image": "button-dish.jpeg"
+  },
+  {
+    "id": 43,
+    "title": "button bike",
+    "materials": ["buttons", "wire"],
+    "other-materials": [],
+    "tools": [""],
+    "link": "https://scrapbooking.craftgossip.com/7-tutorials-for-simply-adorable-scrapbooking-embellishments/2015/02/20/?utm_source=CraftGossip+Daily+Newsletter&utm_campaign=31da551452-CraftGossip_Daily_Newsletter&utm_medium=email&utm_term=0_db55426a84-31da551452-196085249&epik=dj0yJnU9aml5S2tPblFzMlRrUG1iX3d2enRzRkJCM3ltbzFnOGUmcD0wJm49SUNmRjgwZlBXZGsteDRZNTBvczlMQSZ0PUFBQUFBR1FibTRv",
+    "image": "button-bike.jpeg"
   }
 ]

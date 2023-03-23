@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { MenuIcon, OpenIcon } from "./Icons";
 import { useAtom } from "jotai";
-import { menuOpenAtom } from "../_app";
+import { menuOpenAtom } from "../pages/_app";
 
 interface CheckboxComponentProps {
   selectedMaterials: string[];
@@ -64,5 +64,5 @@ export default function Sidebar({
         </div>
       </div>
     );
-  } else return <></>;
+  } else return null;
 }

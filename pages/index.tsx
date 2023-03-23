@@ -2,8 +2,8 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { useState } from "react";
 import Image from "next/image";
-import Sidebar from "./components/Sidebar";
-import CraftGallery from "./components/CraftGallery";
+import Sidebar from "../components/Sidebar";
+import CraftGallery from "../components/CraftGallery";
 import data, { allMaterials } from "../utils/craftData";
 import { atom } from "jotai";
 
