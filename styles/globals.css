@@ -9,7 +9,7 @@ html {
 }
 
 /* Hide the default checkbox appearance */
-input[type="checkbox"] {
+input[type="radio"] {
   /* appearance: none; */
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -23,7 +23,7 @@ input[type="checkbox"] {
 }
 
 /* Add a custom appearance for the checked state */
-input[type="checkbox"]:checked::before {
+input[type="radio"]:checked::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -33,6 +33,11 @@ input[type="checkbox"]:checked::before {
   height: 0.7rem;
   border-radius: 100%;
   @apply bg-rose-400;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
 }
 
 /* Add a custom appearance for the disabled state */

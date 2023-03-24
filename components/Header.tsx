@@ -15,7 +15,7 @@ export default function Header() {
           <MenuIcon />
         </div>
       </button>
-      <h1>craftBook</h1>
+      <h1>craftyBook</h1>
     </div>
   );
 }

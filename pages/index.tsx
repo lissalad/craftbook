@@ -35,7 +35,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>craftBook</title>
+        <title>craftyBook</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex flex-row relative">
